@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with anything
 - 😄 Pronouns: he/him
 <!--
